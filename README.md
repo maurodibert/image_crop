@@ -1,5 +1,7 @@
 # Image Cropping plugin for Flutter
 
+This FORK is used to solve: Error: The class 'Drag' can't be used as a mixin because it isn't a mixin class nor a mixin.
+
 A flutter plugin to crop image on iOS and Android.
 
 ![Image Cropping Preview](assets/image_cropping_preview.gif)
